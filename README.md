@@ -46,6 +46,7 @@ Ideal for use cases like grading systems, bonus evaluations, and logic automatio
 
 ## 📁 Project Structure  
 SmartRule/
+
 main.py — Main GUI application with rule parsing and evaluation logic
 
 rules.txt — Sample rule definitions written in SmartRule format
