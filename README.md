@@ -46,10 +46,13 @@ Ideal for use cases like grading systems, bonus evaluations, and logic automatio
 
 ## 📁 Project Structure  
 SmartRule/
-main.py                # Main GUI application with rule logic
-rules.txt              # Sample rule definitions for evaluation
-README.md              # Project overview and documentation
-smartrule_workflow.png # Workflow diagram (logic flow)
+main.py — Main GUI application with rule parsing and evaluation logic
+
+rules.txt — Sample rule definitions written in SmartRule format
+
+README.md — Full project documentation for GitHub
+
+smartrule_workflow.png — Visual diagram of the workflow process
 
 ---
 
