@@ -1,0 +1,16 @@
+if marks >= 85 then grade = 'A'
+if marks >= 70 and marks < 85 then grade = 'B'
+if marks >= 60 and marks < 70 then grade = 'C'
+if marks >= 50 and marks < 60 then grade = 'D'
+if marks < 50 then grade = 'F'
+if sales >= 100000 then bonus = 0.1 * sales
+if sales >= 50000 and sales < 100000 then bonus = 0.05 * sales
+if sales < 50000 then bonus = 0
+if attendance >= 90 then status = 'Excellent'
+if attendance >= 75 and attendance < 90 then status = 'Good'
+if attendance < 75 then status = 'Low Attendance'
+if category == 'electronics' then tax = 0.18 * price
+if category == 'grocery' then tax = 0.05 * price
+if category == 'clothing' then tax = 0.12 * price
+if marks >= 0 and marks <= 100 then valid = True
+if age >= 18 and age <= 25 then age_group = 'Young Adult'
